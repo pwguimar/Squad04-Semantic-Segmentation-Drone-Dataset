@@ -6,7 +6,6 @@
 
 ## 👥 Integrantes do Squad 04
 
-- Afrânio Augusto Gomes Gonçalves  
 - Felipe Ferreira Dos Santos  
 - Hozana Izadora Da Silva Ferreira  
 - Larissa De Albuquerque Santos  
