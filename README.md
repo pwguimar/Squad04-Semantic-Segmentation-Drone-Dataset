@@ -8,9 +8,7 @@
 
 - Felipe Ferreira Dos Santos  
 - Hozana Izadora Da Silva Ferreira  
-- Larissa De Albuquerque Santos  
 - Luana Aparecida Cardoso  
-- Maria Eduarda Souza Freitas  
 - Patrick Wohrle Guimarães  
 - Sarah Cavalcante Salvino  
 

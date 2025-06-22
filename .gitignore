@@ -1,1 +1,11 @@
 /venv
+
+# Ignorar o dataset completo
+dataset/
+
+# Ignorar arquivos específicos
+doc.txt
+metadata.csv
+
+# Ignorar notebooks de geração/análise de metadados
+gerar_metadados-completo.ipynb
